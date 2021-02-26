@@ -1,4 +1,4 @@
-// Se crea una ruta nueva
+// Se crea una ruta nueva g
 const router = require('express').Router();
 
 router.get('/', (req, res) => {

@@ -8,7 +8,7 @@
     "start": "npm run index"
   },
   "keywords": [],
-  "author": "",
+  "author": " ",
   "license": "ISC",
   "dependencies": {
     "@hapi/joi": "^17.1.1",

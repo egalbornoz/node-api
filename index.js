@@ -6,7 +6,7 @@ require('dotenv').config();
 const app = express();
 
 // cors
-const cors = require('cors');
+const cors = require('cors');//
 var corsOptions = {
     origin: '*', // Reemplazar con dominio
     optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204

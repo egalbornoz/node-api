@@ -2,7 +2,7 @@ const router = require('express').Router();
 const User = require('../models/User');
 const bcrypt = require('bcryptjs');
 const Joi = require('@hapi/joi');
-const jwt = require('jsonwebtoken');
+const jwt = require('jsonwebtoken'); //
 
 // para validar registro de usuario
 const schemaRegister = Joi.object({
